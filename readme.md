@@ -17,6 +17,3 @@
 [] Ajouter une tache (reliée à une collection)
 [] Supprimer une tache
 [] Afficher les taches d'une collection
-
-
-Reprendre à 1H00 de vidéo + Admin bdd (41:00)
